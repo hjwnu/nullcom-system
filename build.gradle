@@ -25,7 +25,6 @@ repositories {
 
 dependencies {
 	implementation project(":nullcom-core")
-	implementation project(":nullcom-framework")
 
 	implementation 'org.springframework.boot:spring-boot-starter-amqp'
 	implementation 'org.springframework.boot:spring-boot-starter-batch'
